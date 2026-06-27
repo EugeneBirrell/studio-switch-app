@@ -98,3 +98,13 @@ The page will update automatically as you edit the source files.
 ## Editing the Application
 
 The main page can be edited in:
+
+```text
+app/page.tsx
+```
+
+Save changes to see updates in the browser while the development server is running.
+
+## Project Structure
+
+A typical Next.js App Router project includes files and folders such as:
