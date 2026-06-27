@@ -88,3 +88,13 @@ pnpm dev
 ```bash
 bun dev
 ```
+
+After the server starts, open the application in your browser:
+
+[http://localhost:3000](http://localhost:3000)
+
+The page will update automatically as you edit the source files.
+
+## Editing the Application
+
+The main page can be edited in:
