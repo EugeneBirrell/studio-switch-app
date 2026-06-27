@@ -178,3 +178,13 @@ npm run start
 StudioSwitchApp can be deployed to any hosting platform that supports Next.js.
 
 One common option is [Vercel](https://vercel.com), the platform created by the makers of Next.js.
+
+For more deployment details, see the official Next.js documentation:
+
+[Next.js Deployment Documentation](https://nextjs.org/docs/app/building-your-application/deploying)
+
+## Learn More
+
+To learn more about Next.js, visit the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs)
