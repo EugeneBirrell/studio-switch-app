@@ -7,3 +7,14 @@ Repository: [https://github.com/EugeneBirrell/studio-switch-app.git](https://git
 ## Overview
 
 This project provides a modern Next.js starter application structure for building and iterating on the StudioSwitchApp interface.
+
+It uses the Next.js App Router structure and includes the default development workflow provided by Next.js.
+
+The application can be run locally, edited in place, and deployed using any platform that supports Next.js.
+
+## Features
+
+- Built with [Next.js](https://nextjs.org)
+- Bootstrapped with `create-next-app`
+- Uses the App Router project structure
+- Supports local development with hot reloading
