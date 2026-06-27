@@ -27,3 +27,14 @@ The application can be run locally, edited in place, and deployed using any plat
 Before running the project, make sure you have one of the supported JavaScript package managers installed.
 
 You can use:
+
+- npm
+- Yarn
+- pnpm
+- Bun
+
+You will also need Node.js installed for the standard Next.js development workflow.
+
+## Getting Started
+
+Clone the repository:
