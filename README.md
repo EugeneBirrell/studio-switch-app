@@ -188,3 +188,13 @@ For more deployment details, see the official Next.js documentation:
 To learn more about Next.js, visit the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs)
+- [Learn Next.js](https://nextjs.org/learn)
+- [Next.js GitHub Repository](https://github.com/vercel/next.js)
+
+## Notes
+
+This README is intended to provide a clean starting point for working with StudioSwitchApp.
+
+As the project grows, update this file with project-specific setup steps, environment details, scripts, and usage examples.
+
+Keep documentation current so new contributors can run and understand the application quickly.
