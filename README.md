@@ -68,3 +68,13 @@ pnpm install
 ```bash
 bun install
 ```
+
+## Running the Development Server
+
+Start the local development server with one of the following commands:
+
+```bash
+npm run dev
+```
+
+```bash
