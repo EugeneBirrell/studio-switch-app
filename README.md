@@ -158,3 +158,13 @@ npm run lint
 ```
 
 ## Building for Production
+
+To create a production build, run:
+
+```bash
+npm run build
+```
+
+This generates an optimized build using the standard Next.js build process.
+
+After building, you can start the production server with:
