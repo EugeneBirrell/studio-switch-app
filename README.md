@@ -168,3 +168,13 @@ npm run build
 This generates an optimized build using the standard Next.js build process.
 
 After building, you can start the production server with:
+
+```bash
+npm run start
+```
+
+## Deployment
+
+StudioSwitchApp can be deployed to any hosting platform that supports Next.js.
+
+One common option is [Vercel](https://vercel.com), the platform created by the makers of Next.js.
