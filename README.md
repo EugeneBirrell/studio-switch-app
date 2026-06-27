@@ -48,3 +48,13 @@ Move into the project directory:
 ```bash
 cd studio-switch-app
 ```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Or use your preferred package manager:
+
+```bash
