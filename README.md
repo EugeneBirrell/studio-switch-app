@@ -108,3 +108,13 @@ Save changes to see updates in the browser while the development server is runni
 ## Project Structure
 
 A typical Next.js App Router project includes files and folders such as:
+
+```text
+app/
+public/
+package.json
+next.config.*
+tsconfig.json
+```
+
+The `app` directory contains application routes and pages.
