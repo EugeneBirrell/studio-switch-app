@@ -58,3 +58,13 @@ npm install
 Or use your preferred package manager:
 
 ```bash
+yarn install
+```
+
+```bash
+pnpm install
+```
+
+```bash
+bun install
+```
