@@ -128,3 +128,13 @@ The `package.json` file defines scripts and dependencies for the project.
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to optimize and load fonts.
 
 The default font referenced by the original project setup is [Geist](https://vercel.com/font).
+
+## Available Scripts
+
+The following scripts are commonly available in a Next.js project created with `create-next-app`.
+
+Run the development server:
+
+```bash
+npm run dev
+```
