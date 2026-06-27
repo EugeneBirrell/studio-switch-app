@@ -38,3 +38,13 @@ You will also need Node.js installed for the standard Next.js development workfl
 ## Getting Started
 
 Clone the repository:
+
+```bash
+git clone https://github.com/EugeneBirrell/studio-switch-app.git
+```
+
+Move into the project directory:
+
+```bash
+cd studio-switch-app
+```
