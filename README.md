@@ -18,3 +18,12 @@ The application can be run locally, edited in place, and deployed using any plat
 - Bootstrapped with `create-next-app`
 - Uses the App Router project structure
 - Supports local development with hot reloading
+- Includes optimized font loading through [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
+- Uses the [Geist](https://vercel.com/font) font family
+- Ready for deployment on platforms that support Next.js
+
+## Requirements
+
+Before running the project, make sure you have one of the supported JavaScript package managers installed.
+
+You can use:
