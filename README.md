@@ -138,3 +138,13 @@ Run the development server:
 ```bash
 npm run dev
 ```
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Start the production server after building:
+
+```bash
