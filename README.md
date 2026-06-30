@@ -39,3 +39,15 @@ The examples below use npm by default, with alternatives shown where useful.
 ## Getting Started
 
 Clone the repository:
+
+```bash
+git clone https://github.com/EugeneBirrell/studio-switch-app.git
+```
+
+Move into the project directory:
+
+```bash
+cd studio-switch-app
+```
+
+Install dependencies:
