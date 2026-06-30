@@ -177,3 +177,13 @@ npm run build
 ```
 
 After the build completes, start the production server:
+
+```bash
+npm run start
+```
+
+The production server serves the compiled Next.js application.
+
+## Deployment
+
+StudioSwitchApp can be deployed to any platform that supports Next.js.
