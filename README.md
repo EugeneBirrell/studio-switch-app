@@ -187,3 +187,13 @@ The production server serves the compiled Next.js application.
 ## Deployment
 
 StudioSwitchApp can be deployed to any platform that supports Next.js.
+
+A common deployment option is [Vercel](https://vercel.com), the platform from the creators of Next.js.
+
+For more deployment guidance, see the official Next.js documentation:
+
+[Next.js Deployment Documentation](https://nextjs.org/docs/app/building-your-application/deploying)
+
+## Learn More
+
+Useful Next.js resources:
