@@ -30,3 +30,12 @@ Before running the project, install Node.js and at least one supported JavaScrip
 Supported package managers include:
 
 - npm
+- Yarn
+- pnpm
+- Bun
+
+The examples below use npm by default, with alternatives shown where useful.
+
+## Getting Started
+
+Clone the repository:
