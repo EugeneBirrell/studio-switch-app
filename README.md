@@ -155,3 +155,15 @@ npm run build
 ```
 
 Start the production server after building:
+
+```bash
+npm run start
+```
+
+Run linting if configured:
+
+```bash
+npm run lint
+```
+
+If a script is not available, check `package.json` for the exact commands included in the project.
