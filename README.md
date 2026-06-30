@@ -135,3 +135,14 @@ Configuration files such as `next.config.*` and `tsconfig.json` control Next.js 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) for font optimization.
 
 The default setup references the [Geist](https://vercel.com/font) font family.
+
+Font configuration is typically handled in the application layout or related style files.
+
+## Available Scripts
+
+The following scripts are commonly available in a Next.js project created with `create-next-app`.
+
+Run the development server:
+
+```bash
+npm run dev
