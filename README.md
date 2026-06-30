@@ -125,3 +125,13 @@ tsconfig.json
 The `app` directory contains application routes, pages, layouts, and related UI files.
 
 The `public` directory stores static assets that can be served directly by the application.
+
+The `package.json` file defines project scripts, dependencies, and development commands.
+
+Configuration files such as `next.config.*` and `tsconfig.json` control Next.js and TypeScript behavior when present.
+
+## Fonts
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) for font optimization.
+
+The default setup references the [Geist](https://vercel.com/font) font family.
