@@ -19,3 +19,14 @@ It can be run locally, edited in place, built for production, and deployed to an
 - Uses the Next.js App Router structure
 - Supports local development with fast refresh
 - Includes optimized font loading through [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
+- Uses the [Geist](https://vercel.com/font) font family from the default setup
+- Ready for production builds using the standard Next.js toolchain
+- Suitable as a starting point for continued StudioSwitchApp development
+
+## Requirements
+
+Before running the project, install Node.js and at least one supported JavaScript package manager.
+
+Supported package managers include:
+
+- npm
