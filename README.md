@@ -113,3 +113,15 @@ Additional routes and layouts can be added using the standard Next.js App Router
 ## Project Structure
 
 A typical project layout includes:
+
+```text
+app/
+public/
+package.json
+next.config.*
+tsconfig.json
+```
+
+The `app` directory contains application routes, pages, layouts, and related UI files.
+
+The `public` directory stores static assets that can be served directly by the application.
