@@ -61,3 +61,13 @@ You can also install dependencies with another package manager:
 ```bash
 yarn install
 ```
+
+```bash
+pnpm install
+```
+
+```bash
+bun install
+```
+
+## Running the Development Server
