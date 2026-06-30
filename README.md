@@ -104,3 +104,12 @@ The main page is located at:
 
 ```text
 app/page.tsx
+```
+
+Edit this file and save your changes while the development server is running to see updates in the browser.
+
+Additional routes and layouts can be added using the standard Next.js App Router structure.
+
+## Project Structure
+
+A typical project layout includes:
