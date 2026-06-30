@@ -71,3 +71,14 @@ bun install
 ```
 
 ## Running the Development Server
+
+Start the local development server:
+
+```bash
+npm run dev
+```
+
+Or use your preferred package manager:
+
+```bash
+yarn dev
