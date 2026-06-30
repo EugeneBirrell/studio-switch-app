@@ -51,3 +51,13 @@ cd studio-switch-app
 ```
 
 Install dependencies:
+
+```bash
+npm install
+```
+
+You can also install dependencies with another package manager:
+
+```bash
+yarn install
+```
