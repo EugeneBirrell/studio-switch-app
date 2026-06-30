@@ -167,3 +167,13 @@ npm run lint
 ```
 
 If a script is not available, check `package.json` for the exact commands included in the project.
+
+## Building for Production
+
+Create an optimized production build:
+
+```bash
+npm run build
+```
+
+After the build completes, start the production server:
