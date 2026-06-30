@@ -93,3 +93,14 @@ bun dev
 ```
 
 After the server starts, open the application in your browser:
+
+[http://localhost:3000](http://localhost:3000)
+
+The application will update automatically as you edit source files.
+
+## Editing the Application
+
+The main page is located at:
+
+```text
+app/page.tsx
